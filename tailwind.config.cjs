@@ -7,6 +7,4 @@ module.exports = {
     extend: {},
   },
   plugins: [],
-  // important: true,
-  // safelist: [], 
-  mode: 'jit',
+};
